@@ -11,9 +11,9 @@ module.exports = function (grunt) {
             development: {
                 output: path.join(__dirname, ".grunt/gitbook"),
                 input: "./",
-                title: "Learn Git",
-                description: "The entire Pro Git book.",
-                github: "GitbookIO/git"
+                title: "Learn Markdown",
+                description: "A book for teaching you to write markdown documents.",
+                github: "GitbookIO/markdown"
             }
         },
         'gh-pages': {
