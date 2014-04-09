@@ -10,4 +10,6 @@ Markdown has since been re-implemented by others as a Perl module available on C
 
 ### Use Cases
 
-Markdown is used in **GitHub**, **Reddit**, **Diaspora**, **Stack Overflow**, **OpenStreetMap**, and many others.
+Markdown is used in **GitHub**, **GitBook**, **Reddit**, **Diaspora**, **Stack Overflow**, **OpenStreetMap**, and many others.
+
+Even this book is written using Markdown: [Raw content of this page](https://raw.githubusercontent.com/GitbookIO/markdown/master/about/README.md).
