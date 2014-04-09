@@ -1,7 +1,7 @@
 # Summary
 
 * [About Markdown](about/README.md)
-* Syntax
+* [Syntax](syntax/README.md)
     * Titles
     * Links
     * Images
