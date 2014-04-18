@@ -3,7 +3,7 @@
 * [About Markdown](about/README.md)
 * [Syntax](syntax/README.md)
     * [Titles](syntax/titles.md)
-    * [Links](test.md)
+    * [Links](syntax/links.md)
     * Images
     * Code
     * Tables
