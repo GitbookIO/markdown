@@ -4,7 +4,7 @@
 * [Syntax](syntax/README.md)
     * [Titles](syntax/titles.md)
     * [Links](syntax/links.md)
-    * Images
+    * [Images](syntax/images.md)
     * Code
     * Tables
 
