@@ -30,7 +30,7 @@ Then, anywhere in the document, you define your link label like this, on a line 
 [id]: http://example.com/  "Optional Title Here"
 ```
 
-**GitHub** and **GitBook** supports URL autolinkingG, it will autolink standard URLs, so if you want to link to a URL (instead of setting link text), you can simply enter the URL and it will be turned into a link to that URL.
+**GitHub** and **GitBook** supports URL autolinking. They will autolink standard URLs, so if you want to link to a URL (instead of setting link text), you can simply enter the URL and it will be turned into a link to that URL.
 
 
 ---
