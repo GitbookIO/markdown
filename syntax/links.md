@@ -1,6 +1,6 @@
 # Links
 
-Markdown supports two style of links: inline and reference.
+Markdown supports two styles of links: inline and reference.
 
 In both styles, the link text is delimited by [square brackets].
 
