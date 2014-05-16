@@ -39,7 +39,7 @@ Here's a quiz about markdown links.
 
 Select the valid links:
 - [x] `[a link](http://google.fr)`
-- [ ] `(a link)[http://google.fr)`
+- [ ] `(a link)[http://google.fr]`
 
 > The link text is delimited by [square brackets].
 
