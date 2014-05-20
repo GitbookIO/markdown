@@ -5,6 +5,5 @@
     * [Titles](syntax/titles.md)
     * [Links](syntax/links.md)
     * [Images](syntax/images.md)
-    * Code
-    * Tables
+    * [Code Blocks](syntax/code.md)
 

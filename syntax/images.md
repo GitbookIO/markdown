@@ -1,4 +1,5 @@
 # Images
+
 ```markdown
 # Inline
 ![Alternative text](/path/to/img.jpg "Optional title")
