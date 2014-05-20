@@ -16,7 +16,7 @@ As you may have noticed, images in  Markdown are very similar to links. The diff
 
 Here's a quiz about markdown images.
 
-Select the valid links:
+Select the valid images:
 - [ ] `[Google logo](https://www.google.ru/logo.png)`
 - [x] `![](https://www.google.ru/logo.png)`
 
