@@ -5,3 +5,4 @@
 * [Links](syntax/links.md)
 * [Images](syntax/images.md)
 * [Code Blocks](syntax/code.md)
+
