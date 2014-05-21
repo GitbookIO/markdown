@@ -13,3 +13,7 @@ Markdown has since been re-implemented by others as a Perl module available on C
 Markdown is used in **GitHub**, **GitBook**, **Reddit**, **Diaspora**, **Stack Overflow**, **OpenStreetMap**, and many others.
 
 Even this book is written using Markdown: [Raw content of this page](https://raw.githubusercontent.com/GitbookIO/markdown/master/about/README.md).
+
+### Files
+
+A markdown document is a text file with the `.md` extension. You can open a markdown file using a simple text editor.
