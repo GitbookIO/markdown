@@ -11,5 +11,3 @@ In this book, you'll learn how to write document using the markdown syntax.
 
 Figure 1: Example of markdown with associated output document on the right.
 
-
-
