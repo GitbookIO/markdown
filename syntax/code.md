@@ -22,10 +22,19 @@ You can also create code block separated by:
 
     ```
 
+### Inline code blocks
+
 Inline code blocks can be written using: `
 
 For example:
 
     This is a `inline code block`
 
+### Syntax highlighting
+
+You can define the language to be used for syntax highlighting by adding the name on the opening tag. Example:
+
+    ```js
+    var a = {};
+    ```
 
