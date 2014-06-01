@@ -7,7 +7,7 @@ Markdown is a plain text formatting syntax designed so that it can optionally be
 
 In this book, you'll learn how to write document using the markdown syntax.
 
-[![Figure 1](https://raw.github.com/GitbookIO/markdown/master/assets/preview.png)](https://raw.github.com/GitbookIO/markdown/master/assets/preview.png)
+[![Figure 1](./assets/preview.png)](./assets/preview.png)
 
 Figure 1: Example of markdown with associated output document on the right.
 
