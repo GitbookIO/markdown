@@ -1,7 +1,7 @@
 # Tableaux
 
 
-Les tableaux ne font pas partie du coeur de la spec Markdown, mais ils font partie de (GitHub Markdown) et Markdown Here les supporte.
+Les tableaux ne font pas partie du coeur de la spec Markdown, mais ils font partie de GFM (GitHub Flavored Markdown) et Markdown Here les supporte.
 
 Voici un exemple de tableau avec le résultat dessous :
 
@@ -18,11 +18,11 @@ Voici un exemple de tableau avec le résultat dessous :
 | col 2 est     | centrée         |   $12 |
 | les zèbres    | sont swag       |    $1 |
 
-Les deux points peut être utilisés pour aligner les colonnes
+Les deux points peuvent être utilisés pour aligner les colonnes
 
 Les traits (|) sont optionnels et vous n'avez pas besoin de faire que le Markdown raw s'alligne parfaitement. Vous pouvez aussi utiliser de l'inline Markdown.
 
-Example:
+Exemple:
 
     Markdown | Assez | Moche
     --- | --- | ---
