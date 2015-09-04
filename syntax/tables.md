@@ -1,30 +1,31 @@
-# Tables
-
-Tables aren't part of the core Markdown spec, but they are part of GFM (GitHub Markdown) and Markdown Here supports them.
-
-Here is an example of table with the output below:
-
-    | Tables        | Are           | Cool  |
-    | ------------- |:-------------:| -----:|
-    | col 3 is      | right-aligned | $1600 |
-    | col 2 is      | centered      |   $12 |
-    | zebra stripes | are neat      |    $1 |
+# Tableaux
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+Les tableaux ne font pas partie du coeur de la spec Markdown, mais ils font partie de GFM (GitHub Flavored Markdown) et Markdown Here les supporte.
 
-Colons can be used to align columns.
+Voici un exemple de tableau avec le résultat dessous :
 
-The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
+    | Les tableaux  | Sont            | Cools |
+    | ------------- |:---------------:| -----:|
+    | col 3 est     | alignée à droite| $1600 |
+    | col 2 est     | centrée         |   $12 |
+    | les zèbres    | sont swag       |    $1 |
 
-Example:
 
-    Markdown | Less | Pretty
+| Les tableaux  | Sont            | Cools |
+| ------------- |:---------------:| -----:|
+| col 3 est     | alignée à droite| $1600 |
+| col 2 est     | centrée         |   $12 |
+| les zèbres    | sont swag       |    $1 |
+
+Les deux points peuvent être utilisés pour aligner les colonnes
+
+Les traits (|) sont optionnels et vous n'avez pas besoin de faire que le Markdown raw s'alligne parfaitement. Vous pouvez aussi utiliser de l'inline Markdown.
+
+Exemple:
+
+    Markdown | Assez | Moche
     --- | --- | ---
-    *Still* | `renders` | **nicely**
+    *Apparait* | `toujours` | **bien**
     1 | 2 | 3
 
