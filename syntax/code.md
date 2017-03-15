@@ -1,24 +1,24 @@
-# Les blocs de code
+# The code's block
 
-Les blocs de codes pré-formatés sont utlisés pour écrire sur la programmation ou surligner un code source. Plus que de simple pragraphe, les lignes de code d'un bloc de code sont litterallement interprétées.
+Pre-formatted code's blocks are used to write about programming or to highlight the source code. More than a simple paragraph, the lines of code's blocks are literally interpreted.
 
-Voici un exemple :
-
-```
-Ceci est un bloc de code 
-```
-
-Afin de créer un bloc de code en Markdown, il suffit d'identer chaque ligne du bloc avec au moins 4 espaces ou une tabulation.
-
-Par exemple :
+Here is one example  :
 
 ```
-Ceci est un paragraphe normal:
-
-    Ceci est un bloc de code. 
+This is a code's block 
 ```
 
-Vous pouvez également créer un bloc de code separé avec:
+In order to create a code's block in Markdown, it is sufficient to indent each line of the block with at least 4 spaces of tabulation.
+
+For example :
+
+```
+This is a normal paragraph:
+
+    This is a code's block. 
+```
+
+It is also possible to create a code's block separated by:
 
     ```
 
