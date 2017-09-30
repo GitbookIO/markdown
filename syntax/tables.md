@@ -1,6 +1,6 @@
 # Tables
 
-Tables aren't part of the core Markdown spec, but they are part of GFM (GitHub Markdown) and Markdown here (on GitHub) supports them.
+Tables aren't part of the core [Markdown spec](https://daringfireball.net/projects/markdown/dingus), but they are part of GFM (GitHub Markdown) and Markdown here (on GitHub) supports them.
 
 Here is an example of table in markdown and the output below:
 
