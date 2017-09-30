@@ -1,8 +1,8 @@
 # Tables
 
-Tables aren't part of the core Markdown spec, but they are part of GFM (GitHub Markdown) and Markdown Here supports them.
+Tables aren't part of the core Markdown spec, but they are part of GFM (GitHub Markdown) and Markdown here supports them.
 
-Here is an example of table with the output below:
+Here is an example of table in markdown and the output below:
 
     | Tables        | Are           | Cool  |
     | ------------- |:-------------:| -----:|
@@ -10,6 +10,8 @@ Here is an example of table with the output below:
     | col 2 is      | centered      |   $12 |
     | zebra stripes | are neat      |    $1 |
 
+Output:
+***
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -17,9 +19,9 @@ Here is an example of table with the output below:
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-Colons can be used to align columns.
+*     Colons (:)  can be used to align columns.
 
-The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
+*     The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
 
 Example:
 
@@ -27,4 +29,10 @@ Example:
     --- | --- | ---
     *Still* | `renders` | **nicely**
     1 | 2 | 3
+    
+    
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
