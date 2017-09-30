@@ -4,37 +4,44 @@ Pre-formatted code blocks are used for writing about programming or markup sourc
 
 Here is an example:
 
-```
-This is a code block
-```
+    # This is an unchanged code block
 
 To produce a code block in Markdown, simply indent every line of the block by at least 4 spaces or 1 tab.
 
 For example:
 
-```
+
 This is a normal paragraph:
 
-    This is a code block.
-```
+        This is a code block.
+   
 
-You can also create code block separated by:
+You can also create a code block by:
 
     ```
 
 ### Inline code blocks
 
-Inline code blocks can be written using: `
-
-For example:
-
-    This is a `inline code block`
+Inline code blocks can be written using: `` `(a backtick)``.  
+Example:  
+***   
+``This is an `inline code block`.``  
+Result:  
+***    
+This is an `inline code block`
 
 ### Syntax highlighting
 
-You can define the language to be used for syntax highlighting by adding the name on the opening tag. Example:
+You can define the language to be used for syntax highlighting by adding the language identifier on the end of the opening tag.  
+Example:   
+***  
+    ```js  
+    var a = {};  
 
-    ```js
-    var a = {};
-    ```
-
+    ```   
+Result:  
+***  
+```js  
+  var a = {};   
+```  
+  
