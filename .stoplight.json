@@ -20,7 +20,7 @@
       ]
     },
     "image": {
-      "rootDir": "assets/images",
+      "rootDir": "assets",
       "include": [
         "**"
       ]
