@@ -4,7 +4,7 @@ Pre-formatted code blocks are used for writing about programming or markup sourc
 
 Here is an example:
 
-```
+```markdown
 This is a code block
 ```
 
@@ -12,7 +12,7 @@ To produce a code block in Markdown, simply indent every line of the block by at
 
 For example:
 
-```
+```markdown
 This is a normal paragraph:
 
     This is a code block.
@@ -34,7 +34,6 @@ For example:
 
 You can define the language to be used for syntax highlighting by adding the name on the opening tag. Example:
 
-    ```js
+    ```javascript
     var a = {};
     ```
-
