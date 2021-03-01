@@ -4,11 +4,13 @@ Tables aren't part of the core Markdown spec, but they are part of GFM (GitHub M
 
 Here is an example of table with the output below:
 
-    | Tables        | Are           | Cool  |
-    | ------------- |:-------------:| -----:|
-    | col 3 is      | right-aligned | $1600 |
-    | col 2 is      | centered      |   $12 |
-    | zebra stripes | are neat      |    $1 |
+```
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+```
 
 | Tables        |      Are      |  Cool |
 | ------------- | :-----------: | ----: |
@@ -22,7 +24,9 @@ The outer pipes (|) are optional, and you don't need to make the raw Markdown li
 
 Example:
 
-    Markdown | Less | Pretty
-    --- | --- | ---
-    *Still* | `renders` | **nicely**
-    1 | 2 | 3
+```
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+```
