@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap" rel="stylesheet">
 </head>
 
-# Titles
+# Titles.
 
 ### As we started writing a markdown document, we need to add a **title** and some **sub-headers**.
 
