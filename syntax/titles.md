@@ -1,11 +1,9 @@
-<!-- <head>
+<head>
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap" rel="stylesheet">
-</head> -->
+</head>
 
-<div style="font-family:monospace;">
-
- <h1 style="font-family:monospace;">Titles</h1>
+# Titles
 
 ### As we started writing a markdown document, we need to add a **title** and some **sub-headers**.
 
