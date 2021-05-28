@@ -1,9 +1,9 @@
-<head>
+<!-- <head>
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap" rel="stylesheet">
-</head>
+</head> -->
 
-<div style="font-family: 'Inconsolata', monospace;">
+<div style="font-family:monospace;">
 
 # Titles
 
