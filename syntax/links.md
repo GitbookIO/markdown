@@ -1,10 +1,19 @@
-# Links
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap" rel="stylesheet">
 
-Markdown supports two styles of links: inline and reference.
+
+<div style="font-family: 'Inconsolata', monospace;">
+
+# <ins> Links </ins>
+
+## Markdown supports two styles of links: inline and reference.
 
 In both styles, the link text is delimited by [square brackets].
 
-To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes. For example:
+To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. <br>
+
+ Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes. 
+ ## <ins> For example: </ins>
 
 ```markdown
 [I'm an inline-style link](https://www.google.com)
@@ -34,4 +43,8 @@ Then, anywhere in the document, you define your link label like this, on a line 
 [id]: http://example.com/ "Optional Title Here"
 ```
 
-**GitHub** and **GitBook** supports URL autolinking. They will autolink standard URLs, so if you want to link to a URL (instead of setting link text), you can simply enter the URL and it will be turned into a link to that URL.
+**GitHub** and **GitBook** supports URL autolinking. 
+<br>
+They will autolink standard URLs, so if you want to link to a URL (instead of setting link text), you can simply enter the URL and it will be turned into a link to that URL.
+
+</div>
