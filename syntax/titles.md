@@ -5,7 +5,7 @@
 
 <div style="font-family:monospace;">
 
-# Titles
+ <h1 style="font-family:monospace;">Titles</h1>
 
 ### As we started writing a markdown document, we need to add a **title** and some **sub-headers**.
 
